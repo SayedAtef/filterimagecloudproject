@@ -28,7 +28,9 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "@types/is-url": "^1.2.30",
     "express": "^4.17.1",
+    "is-url": "^1.2.4",
     "jimp": "^0.16.1",
     "rimraf": "^3.0.2"
   }
